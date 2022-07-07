@@ -1,6 +1,6 @@
 # SpringBoot_Web
 
-This is a project with Spring Framework, trying to implement:
+This is a project with Spring Framework of a Web Page, trying to implement:
 - Clean Code
 - MVC
 - DDD
