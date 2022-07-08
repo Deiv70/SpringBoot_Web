@@ -11,3 +11,4 @@ This is a project of a Web Page created with Spring Framework / Java, trying to 
 
 ## Resources: 
 - https://spring.io/guides/gs/serving-web-content/
+- https://getbootstrap.com/docs/3.3/getting-started/#download-cdn

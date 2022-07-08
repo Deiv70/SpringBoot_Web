@@ -1,0 +1,42 @@
+package io.github.deiv70.springboot_web;
+
+public class Client {
+    // Attributes
+    private String name;
+    private String surname;
+    private int age;
+    
+    // Constructors
+    public Client(String name, String surname, int age) {
+        this.name = name;
+        this.surname = surname;
+        this.age = age;
+    }
+    /* public Client() {
+        this.name = ;
+        this.surname = ;
+        this.age = ;
+    } */
+
+    // Methods:
+        // Getters
+    public String getName() {
+        return name;
+    }
+    public String getSurname() {
+        return surname;
+    }
+    public int getAge() {
+        return age;
+    }
+        // Setters
+    public void setName(String name) {
+        this.name = name;
+    }
+    public void setSurname(String surname) {
+        this.surname = surname;
+    }
+    public void setAge(int age) {
+        this.age = age;
+    }
+}
