@@ -18,7 +18,9 @@ public class GreetingController {
 	) {
 		model.addAttribute("name", name);
 		model.addAttribute("client", Arrays.asList(
-			new Client("David","Gómez",22)
+			new Client("David","Gómez",22),
+			new Client("Andrea","Cancio",22),
+			new Client("Daniel","Díaz",23)
 		));
 		return "greeting";
 	}
